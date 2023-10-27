@@ -1,10 +1,5 @@
-<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=while"/>
-<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=while"/>
-
 <p>
- 
   <a href="https://www.instagram.com/parkjjiiwoong/" target="_blank"><img src="https://img.shields.io/badge/Parkjjiiwoong-0A66C2?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
   <a href="mailto:dkfxldptm1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dkfxldptm1@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <p>
