@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @DANCIINGQUEEN
-- 👀 I’m interested in data structure
-- 🌱 I’m currently learning algorithm
-- 💞️ I’m looking to collaborate on ...
-
+https://img.shields.io/badge/<React>-<React>-<Blue>
 
 <!---
 DANCIINGQUEEN/DANCIINGQUEEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
