@@ -2,7 +2,7 @@
 - 👀 I’m interested in data structure
 - 🌱 I’m currently learning algorithm
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 DANCIINGQUEEN/DANCIINGQUEEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
