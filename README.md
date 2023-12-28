@@ -38,6 +38,10 @@ At present, I have been interested in creating Express.js Server and REST APIs a
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
     </picture> 
   </a> 
+  <a href="http://www.instagram.com/parkjjiiwoong" target="_blank" rel="noreferrer">
+  ![Instagram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)
+</a>
+
   
   <a href="https://www.linkedin.com/in/지웅-박-304005262" target="_blank" rel="noreferrer"> 
     <picture> 
