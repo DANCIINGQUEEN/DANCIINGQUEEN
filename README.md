@@ -27,7 +27,7 @@ At present, I have been interested in creating Express.js Server and REST APIs a
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=Github&logoColor=white">
   </a> 
   
-  <a href="http://www.instagram.com/parkjjiiwoong" target="_blank" rel="noreferrer"> 
+  <a href="https://www.instagram.com/parkjjiiwoong" target="_blank" rel="noreferrer"> 
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
   
